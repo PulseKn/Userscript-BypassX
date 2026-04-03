@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BypassX OniHub 
 // @namespace    https://github.com/PulseKn
-// @version      9.3.0
+// @version      1.10
 // @description  Bypasses Linkvertise, Work.ink, Lootlabs, Rekonise, AdMaven, ShortEarn, Ouo.io, Lockr, MBoost, Link-Unlocker, Luarmor + many more + Discord logging
 // @author       BypassX
 // @icon         https://cdn.discordapp.com/attachments/1474140781290979328/1489204768780976138/image.png?ex=69cf9184&is=69ce4004&hm=82223416d2f1a6036d21311fbf57773ea3a803ae4456b7a0c0148f0e4e8fbd01&
