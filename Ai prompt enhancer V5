@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ✦ AI Prompt Enhancer Obf
-// @namespace    https://github.com/ai-prompt-enhancer
+// @namespace    https://github.com/PulseKn
 // @version      5.0.0
 // @description  Supercharge prompts on all major AI chat platforms — desktop & mobile adaptive
 // @author       AI Prompt Enhancer
@@ -49,10 +49,15 @@
 // @match        https://playground.openai.com/*
 // @match        https://platform.openai.com/*
 // @match        https://together.ai/*
+// @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @grant        GM_deleteValue
 // @grant        GM_addStyle
-// @run-at       document-idle
+// @grant        unsafeWindow
+//
+// @connect      *
+// @run-at       document-start
 // @update       https://github.com/PulseKn/Userscript-BypassX/edit/main/Ai%20prompt%20enhancer%20V5
 // ==/UserScript==
 
